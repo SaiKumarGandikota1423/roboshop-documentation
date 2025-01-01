@@ -26,6 +26,8 @@ We have 2 type of proxies.
 1. Forward Proxy
 2. Reverse Proxy
 
+
+
 ![alt text](proxy.jpg)
 
 #### Forward Proxy:
